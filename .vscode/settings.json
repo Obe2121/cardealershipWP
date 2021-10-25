@@ -1,0 +1,31 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://ymeizwgz:ZRE7g6Rg7Sp4KsxvtKNepa-HyraN0wIT@fanny.db.elephantsql.com/ymeizwgz",
+            "name": "DVD Rental"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://vmtyeaqz:paCeoFbmSShJmLE8xJClfCRGVcA4I6Lf@fanny.db.elephantsql.com/vmtyeaqz",
+            "name": "Movies"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "cardealership",
+            "connectString": "postgres://ddixdkky:SvFQ88UN-ZzYPlY79Ucu96F8X4pDczOQ@fanny.db.elephantsql.com/ddixdkky"
+        }
+    ]
+}
